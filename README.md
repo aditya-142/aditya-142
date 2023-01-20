@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya-142
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and back end development
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently python,numpy etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
